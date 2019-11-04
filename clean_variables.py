@@ -76,4 +76,6 @@ for i in range(0, num_lines):
 file.close()
 output.close()
 
+print("File Cleaned")
+
 exit(0)
